@@ -1,0 +1,16 @@
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\bin\Debug\Login01.exe.config
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\bin\Debug\Login01.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\bin\Debug\Login01.pdb
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\bin\Debug\Login01.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\bin\Debug\Guna.UI.dll
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.vbprojResolveAssemblyReference.cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.Form1.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.Resources.resources
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.vbproj.GenerateResource.Cache
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.exe
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.xml
+c:\users\ilham-pc\documents\visual studio 2015\Projects\Login01\Login01\obj\Debug\Login01.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\Login01.exe.config
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.pdb
