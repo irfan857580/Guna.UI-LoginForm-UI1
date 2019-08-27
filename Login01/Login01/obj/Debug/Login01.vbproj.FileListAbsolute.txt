@@ -14,3 +14,10 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\L
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.xml
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\Login01.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\Login01.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\Login01.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-LoginForm-UI1\Login01\Login01\obj\Debug\Login01.vbproj.GenerateResource.Cache
